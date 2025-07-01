@@ -1,6 +1,7 @@
 requests
 pyrogram==2.0.106
-pytgcalls==2.1.0
+pytgcalls==1.2.5
 pymongo==4.13.2
 tgcrypto
 flask
+
