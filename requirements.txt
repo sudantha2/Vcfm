@@ -1,5 +1,7 @@
+
 pyrogram
-pytgcalls
-tgcrypto
 pymongo
+requests
+pytgcalls
+py-tgcalls
 flask
